@@ -5,3 +5,6 @@ Deep Learning (DL) is being utilized to generate various contents such as images
 
 # DATASET
 https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi
+
+# KAGGLE NOTEBOOK
+https://www.kaggle.com/code/elvis23/deep-mozart
